@@ -1,0 +1,10 @@
+===== Step for Run the Project===========
+Step 1:- First Clone the Project 
+Step 2:- start the VS 2015
+Step 3:- go to file -> open -> web site -> select the Folder then open
+Step 4:- got to project Clone folder open the “DataBaseBk” -> find the BAK file and restored the data base.
+Step 5:- Setup the web.Config file in that set the database connection.
+Step 6:- in the project right click on the “ItemMaster.aspx” file -> view in browser and add the Items.
+Step 7:- when you want to delete the added item in the Inventory click on delete button on the grid view.
+Step 8:- in the project right click on the “Inventory.aspx” file -> view in browser and add the Inventory Details.
+Step 9:- when you want to edit the Inventory Details enter the  id “Search Id Wise Modify”  in this field i.e. id=3 -> it will show the Inventory Details.
